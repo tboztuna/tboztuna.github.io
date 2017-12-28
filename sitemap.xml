@@ -4,56 +4,56 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2017-12-28T09:08:02-00:00</lastmod>
+<loc>https://tboztuna.github.io/</loc>
+<lastmod>2017-12-28T09:15:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2017-12-28T09:08:02-00:00</lastmod>
+<loc>https://tboztuna.github.io/archives.html</loc>
+<lastmod>2017-12-28T09:15:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2017-12-28T09:08:02-00:00</lastmod>
+<loc>https://tboztuna.github.io/tags.html</loc>
+<lastmod>2017-12-28T09:15:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2017-12-28T09:08:02-00:00</lastmod>
+<loc>https://tboztuna.github.io/categories.html</loc>
+<lastmod>2017-12-28T09:15:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/hello.html</loc>
+<loc>https://tboztuna.github.io/hello.html</loc>
 <lastmod>2017-12-27T00:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/category/test.html</loc>
+<loc>https://tboztuna.github.io/category/test.html</loc>
 <lastmod>2017-12-27T00:00:00+01:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/test.html</loc>
+<loc>https://tboztuna.github.io/tag/test.html</loc>
 <lastmod>2017-12-27T00:00:00+01:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/author/tolga-boztuna.html</loc>
+<loc>https://tboztuna.github.io/author/tolga-boztuna.html</loc>
 <lastmod>2017-12-27T00:00:00+01:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
